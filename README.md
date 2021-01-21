@@ -68,5 +68,6 @@ Recognizing facial expression with CNN
           
           Train Data --> 0.8757
           Validation(Private Test) --> 1.1807
+![](https://imgflip.com/i/4upar2)
 
 ## Do ***STAR***  if you find it useful :)
