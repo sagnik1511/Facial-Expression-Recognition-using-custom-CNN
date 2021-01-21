@@ -1,6 +1,6 @@
 # Facial-Expression-Recognition-using-custom-CNN
 Recognizing facial expression with CNN
-
+![](https://cms2.mega.nz/unsigned/d3284a7070ba5517377a78d25f4ec8d0a448f37638f6de525e23243b2ea64e64)
 ![](https://images.ctfassets.net/cnu0m8re1exe/70iMKfC0fJNNd4SN7HmgD1/cbdfd2e0595d4451fa7ff64703562d04/shutterstock_1191853330.jpg?w=650&h=433&fit=fill)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
