@@ -1,6 +1,5 @@
 # Facial-Expression-Recognition-using-custom-CNN
 Recognizing facial expression with CNN
-![](https://cms2.mega.nz/unsigned/d3284a7070ba5517377a78d25f4ec8d0a448f37638f6de525e23243b2ea64e64)
 ![](https://images.ctfassets.net/cnu0m8re1exe/70iMKfC0fJNNd4SN7HmgD1/cbdfd2e0595d4451fa7ff64703562d04/shutterstock_1191853330.jpg?w=650&h=433&fit=fill)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -8,12 +7,12 @@ Recognizing facial expression with CNN
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-# Project Environment : 
+ ## Project Environment : 
 
           1. Python
           2. Google Collab
           3. API Docker
-## Data Description :
+ ## Data Description :
 
    * **Link of the Dataset**  : https://www.kaggle.com/ashishpatel26/facial-expression-recognitionferchallenge
    * **Usage**   : 
@@ -50,14 +49,14 @@ Recognizing facial expression with CNN
                   5:    NEUTRAL
                   6:    SADNESS
                   7:    SURPRISE
-## Model : 
+ ## Model : 
         Sequential model having 
            1. Conv2D
            2. MaxPool2D
            3. Dropout
            4. Dense
            5. Flatten
-## Model evaluation Metric :
+ ## Model evaluation Metric :
    **Accuracy** :
           
           Train Data --> 0.6605
@@ -68,6 +67,9 @@ Recognizing facial expression with CNN
           
           Train Data --> 0.8757
           Validation(Private Test) --> 1.1807
+## Some screenshots of Classification
+---
+![](https://github.com/sagnik1511/Facial-Expression-Recognition-using-custom-CNN/blob/main/a.jpg)
 
-
+![](https://github.com/sagnik1511/Facial-Expression-Recognition-using-custom-CNN/blob/main/b.jpg)
 ## Do ***STAR***  if you find it useful :)
